@@ -67,7 +67,7 @@ loop loopblock
 
 ret 
 txt db 10,'|-------------|$'
-msj db 10,13,'|Ascii tablosu|$'
+msj db 10,13,'|Ascii table|$'
 new  db 10,13,'      $'
 index db ?
 digit db '0x30'  ; 0x0 - > '0' = 0x30
